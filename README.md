@@ -1,8 +1,8 @@
 # vue_ex
 
-vue Option API
-vue Composition API
-vue scrtip setup
++ vue Option API
++ vue Composition API
++ vue scrtip setup
 
 # vue3_examples-main
 한 권으로 배우는 Vue.js 3 책에 실린 코드를 참고하여 script setup 으로 변경하였습니다.
