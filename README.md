@@ -3,13 +3,13 @@
 ### 문법 예제
 
 + vue Option API
-+	+ ex_1_구성요소
+	+ ex_1_구성요소
 
 + vue Composition API
-+	+ ex_2_구성요소
+	+ ex_2_구성요소
 
 + vue scrtip setup
-+	+ 날짜_3_구성요소
+	+ 날짜_3_구성요소
 
 # vue3_examples-main
 
